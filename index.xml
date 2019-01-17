@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>faizxrayaldy</title>
+    <link>https://noovice.github.io/</link>
+    <description>Recent content on faizxrayaldy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jan 2019 04:27:40 +0700</lastBuildDate>
+    
+	<atom:link href="https://noovice.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://noovice.github.io/about/</link>
+      <pubDate>Fri, 18 Jan 2019 04:27:40 +0700</pubDate>
+      
+      <guid>https://noovice.github.io/about/</guid>
+      <description>Hi there! I&amp;rsquo;m Faiz Rayaldy.
+I&amp;rsquo;m video editor and also a magician.
+For now i&amp;rsquo;m currently working as video editor in Titik Magazine.
+You can find me in Twitter or Instagram.
+Not enough ?
+Okay here&amp;rsquo;s my linkedin
+Finally you can mail me if you want, jus hit me with that ddu-du ddu-du du</description>
+    </item>
+    
+    <item>
+      <title>Bedcover Scene - If They (rehearsal acoustic)</title>
+      <link>https://noovice.github.io/projects/bedcover-scene/</link>
+      <pubDate>Fri, 18 Jan 2019 04:25:53 +0700</pubDate>
+      
+      <guid>https://noovice.github.io/projects/bedcover-scene/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

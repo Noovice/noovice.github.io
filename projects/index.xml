@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on faizxrayaldy</title>
+    <link>https://noovice.github.io/projects/</link>
+    <description>Recent content in Projects on faizxrayaldy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jan 2019 04:23:51 +0700</lastBuildDate>
+    
+	<atom:link href="https://noovice.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bedcover Scene - If They (rehearsal acoustic)</title>
+      <link>https://noovice.github.io/projects/bedcover-scene/</link>
+      <pubDate>Fri, 18 Jan 2019 04:25:53 +0700</pubDate>
+      
+      <guid>https://noovice.github.io/projects/bedcover-scene/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
